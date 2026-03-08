@@ -1,0 +1,2 @@
+# Grocery Billing App Requirements
+# Just Tkinter - no external dependencies needed (included in Python)
